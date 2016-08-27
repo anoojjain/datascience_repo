@@ -28,4 +28,6 @@ anooj@ajxps1 MINGW64 ~/git_repo/datascience_repo
 $ git remote add origin https://github.com/anoojjain/datascience_repo.git
 fatal: Not a git repository (or any of the parent directories): .git
 
+get   
+
 
