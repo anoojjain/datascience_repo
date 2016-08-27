@@ -1,0 +1,24 @@
+# Git Command 
+
+anooj@ajxps1 MINGW64 ~
+$ git config --global user.name anoojjain
+
+anooj@ajxps1 MINGW64 ~
+$ git config --global user.email anooj.jain@hotmail.com
+
+$ git config --list
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.cr
+diff.astextplain.textconv=astextplain
+rebase.autosquash=true
+credential.helper=manager
+user.name=anoojjain
+user.email=anooj.jain@hotmail.com
+
